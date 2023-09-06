@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(175, 137, 30);
+}
+
+.title {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    background-color: rgb(255, 234, 190);
+}
+
+.text {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+.recipe-photo {
+    width: 400px;
+    height: auto;
+}
