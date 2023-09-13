@@ -6,11 +6,34 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     color: black;
     background-color: rgb(255, 234, 190);
+    text-align: center;
+    padding: 10px;
 }
 
 .text {
     font-family: Arial, Helvetica, sans-serif;
     color: black;
+}
+
+.menu-bar{
+    width: 400px;
+    height: auto;
+    background: rgb(255, 234, 190);
+    padding: 5px;
+    margin: 16px auto;
+    text-align: center;
+    border: 2px solid white;
+}
+
+.menu-button{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(99, 68, 0);
+    display: block;
+    background-color: rgb(255, 247, 231);
+    padding: 20px;
+    margin: 20px 40px;
+    border: 2px solid rgb(175, 137, 30);
+    text-decoration: none;
 }
 
 .recipe-photo {
